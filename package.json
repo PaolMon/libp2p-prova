@@ -1,0 +1,25 @@
+{
+  "name": "libp2p-prova",
+  "version": "1.0.0",
+  "description": "prova implementazione libp2p",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaolMon/libp2p-prova.git"
+  },
+  "keywords": [
+    "libp2p",
+    "kademlia",
+    "p2p",
+    "javascript"
+  ],
+  "author": "Paolo Monteverdi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaolMon/libp2p-prova/issues"
+  },
+  "homepage": "https://github.com/PaolMon/libp2p-prova#readme"
+}
